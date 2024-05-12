@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "hackmud-script-manager": "^0.20.3",
+    "npm": "^10.7.0",
+    "pnpm": "^7.33.5"
+  },
+  "name": "hackmud_scripts",
+  "version": "1.0.0",
+  "description": "Personal software for the game HackMUD",
+  "main": "",
+  "scripts": {
+    "typescript": "node_modules/typescript/bin/tsc",
+    "ts": "node_modules/typescript/bin/tsc",
+    "hsm": "node_modules/hackmud-script-manager/bin/hsm.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mallchad/hackmud_scripts.git"
+  },
+  "author": "Mallchad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mallchad/hackmud_scripts/issues"
+  },
+  "homepage": "https://github.com/Mallchad/hackmud_scripts#readme",
+  "devDependencies": {
+    "@types/node": "^20.6.0"
+  }
+}
